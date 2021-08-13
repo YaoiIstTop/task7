@@ -1,0 +1,54 @@
+div{
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+}
+
+.main{
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+}
+
+.logo{
+  height: 40px;
+ padding: 10px;
+ background-color: #db5a92;
+}
+
+.navi{
+  height: 30px;
+ padding: 10px;
+ background-color: #db5abf;
+}
+
+.head{
+  background-color: #db5adb;
+  height: 20px;
+ padding: 10px;
+}
+
+.colomb{
+  display: flex;
+  flex-flow: row;
+  margin: 0 auto;
+  justify-content: space-around;
+}
+
+.side{
+  margin: 10px;
+padding: 20px;
+background-color: #b25adb;
+height: 120px;
+width: 1000px;
+}
+
+.air{
+  background-color: #725adb;
+}
+
+.foot{
+  background-color: #8582e0;
+  height: 20px;
+ padding: 10px;
+}
